@@ -1,0 +1,63 @@
+/* styles.css */
+
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e84fc4;
+    color: #f599ef;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:#3f0928;
+    color: rgb(232, 158, 221);
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+main {
+    margin: 30px;
+    text-align: center;
+}
+
+section {
+    background-color: #efb0dc;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 5px #ccc;;
+}
+
+p {
+    font-size: 60px;
+    line-height: 1.5;
+    font-weight: bold;
+    background-position:bottom;
+    font-style: italic;
+}
+
+footer {
+    background-color: #3f0928;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+/* Example for different font properties */
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    color: #060106; /* A warm color for a sentimental mood */
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    color: #333; /* A neutral color for readability */
+}
+
